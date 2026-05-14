@@ -1,33 +1,48 @@
-# Abner López
+```md
+<div align="center">
 
-Descripción corta de tu proyecto.
+# 👋 Hola, soy Abner López
 
-## Vista previa
+### 💻 Aprendiendo programación y desarrollo web
 
-Este proyecto fue creado usando:
+</div>
+
+---
+
+# 🚀 Sobre mí
+
+Actualmente estoy aprendiendo programación y mejorando mis habilidades en desarrollo web.
+
+Me gusta crear proyectos, practicar JavaScript y aprender nuevas tecnologías poco a poco.
+
+---
+
+# 🛠️ Tecnologías que estoy aprendiendo
 
 - HTML
 - CSS
 - JavaScript
+- Git y GitHub
 
-## Funciones
+---
 
-- Diseño responsive
-- Botones interactivos
-- Menú desplegable
-- Animaciones
+# 📚 Objetivos
 
-## Cómo usarlo
+- Mejorar como desarrollador
+- Crear proyectos más completos
+- Aprender nuevas tecnologías
+- Compartir mi progreso en GitHub
 
-1. Descarga el proyecto
-2. Abre el archivo `index.html`
+---
 
-## Estructura del proyecto
+# 📂 Mis proyectos
 
-```bash
-mi-proyecto/
-│
-├── index.html
-├── style.css
-├── script.js
-└── README.md
+Aquí encontrarás proyectos, prácticas y ejercicios que hago mientras aprendo programación.
+
+---
+
+<div align="center">
+
+### ⭐ Gracias por visitar mi perfil
+
+</div>
