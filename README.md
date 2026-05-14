@@ -1,11 +1,11 @@
 ```md
-<div align="center">
+
 
 # 👋 Hola, soy Abner López
 
 ### 💻 Aprendiendo programación y desarrollo web
 
-</div>
+
 
 ---
 
@@ -41,8 +41,7 @@ Aquí encontrarás proyectos, prácticas y ejercicios que hago mientras aprendo 
 
 ---
 
-<div align="center">
 
 ### ⭐ Gracias por visitar mi perfil
 
-</div>
+
