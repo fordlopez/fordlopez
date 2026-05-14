@@ -1,34 +1,57 @@
-# Mi Proyecto
+<div align="center">
 
-Descripción corta de tu proyecto.
+# 👋 Hola, soy Ford López
 
-## Vista previa
+### 💻 Aprendiendo programación y desarrollo web
 
-Este proyecto fue creado usando:
+<img src="https://img.shields.io/badge/Aprendiendo-JavaScript-yellow?style=for-the-badge&logo=javascript">
+<img src="https://img.shields.io/badge/Frontend-HTML%20%26%20CSS-blue?style=for-the-badge">
+<img src="https://img.shields.io/badge/GitHub-En%20progreso-black?style=for-the-badge&logo=github">
 
-- HTML
-- CSS
-- JavaScript
+</div>
 
-## Funciones
+---
 
-- Diseño responsive
-- Botones interactivos
-- Menú desplegable
-- Animaciones
+# 🚀 Sobre mí
 
-## Cómo usarlo
+Actualmente estoy aprendiendo programación y mejorando mis habilidades en desarrollo web.
 
-1. Descarga el proyecto
-2. Abre el archivo `index.html`
+Me gusta practicar creando proyectos, aprendiendo JavaScript y explorando nuevas tecnologías.
 
-## Estructura del proyecto
+---
 
-```bash
-mi-proyecto/
-│
-├── index.html
-├── style.css
-├── script.js
-└── README.md
+# 🛠️ Tecnologías que estoy aprendiendo
 
+<div align="center">
+
+| Tecnología | Nivel |
+|---|---|
+| HTML | 🟢 Básico |
+| CSS | 🟢 Básico |
+| JavaScript | 🟡 Aprendiendo |
+| Git & GitHub | 🟡 Aprendiendo |
+
+</div>
+
+---
+
+# 📚 Objetivos
+
+✔️ Mejorar como desarrollador  
+✔️ Crear proyectos más completos  
+✔️ Aprender nuevas tecnologías  
+✔️ Compartir mi progreso en GitHub  
+
+---
+
+# 📂 Sobre este perfil
+
+Aquí encontrarás proyectos, prácticas y ejercicios que realizo mientras aprendo programación.
+
+---
+
+<div align="center">
+
+## ⭐ Gracias por visitar mi perfil
+
+</div>
